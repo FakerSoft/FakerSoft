@@ -1,6 +1,8 @@
 <div align="center">
 
-  
+  <a href="https://t.me/faker_soft">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F78419&center=true&vCenter=true&width=600&lines=Hi,+I'm+Faker+Ahmed+Hassan;Software+Developer;C%2B%2B+%26+C%23+Specialist;UI%2FUX+Designer" alt="Faker Ahmed" />
+  </a>
 
   <br>
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="50%"/> 
@@ -11,7 +13,7 @@
     <img src="https://img.shields.io/badge/Main_Focus-Software_Engineering-blue?style=for-the-badge" />
   </p>
 
-  <a href="https://t.me/spxd007">
+  <a href="https://t.me/faker_soft">
     <img src="https://img.shields.io/badge/Telegram-Contact%20Me-blue?style=for-the-badge&logo=telegram" />
   </a>
 
@@ -60,7 +62,7 @@
 <br>
 
 ```csharp
-// The DNA of my work
+// Professional Identity in C#
 public class Developer {
     public string Name = "Faker Ahmed Hassan";
     public string Role = "Software Programmer";
