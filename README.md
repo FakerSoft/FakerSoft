@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F78419&center=true&vCenter=true&width=600&lines=Hi,+I'm+Faker+Ahmed+Hassan;Software+Developer;C%2B%2B+%26+C%23+Specialist;UI%2FUX+Designer+at+Dhi+Qar+University" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F78419&center=true&vCenter=true&width=600&lines=Hi,+I'm+Faker+Ahmed+Hassan;Software+Developer;C%2B%2B+%26+C%23+Specialist;UI%2FUX+Designer" alt="Typing SVG" />
   </a>
 
   <br>
@@ -22,8 +22,7 @@
 <hr>
 
 ### 🖋️ Professional Bio
-- 🎓 **Academic:** 2nd Year Computer Science Student at **University of Dhi Qar**.
-- 🖥️ **Core Programming:** Expert in building logic with **C++** and **C# (.NET)**.
+- 💻 **Core Programming:** Expert in building logic with **C++** and **C# (.NET)**.
 - 🌐 **Web Development:** Proficient in **HTML5, CSS3, and JavaScript**.
 - 🎨 **UI/UX Design:** Crafting user-centric interfaces using **Figma** and **Adobe Suite**.
 - 🐧 **Linux Lover:** Passionate about shell scripting and system customization.
@@ -63,7 +62,7 @@
 <br>
 
 ```csharp
-// Coding is my core identity
+// The DNA of my work
 public class Developer {
     public string Name = "Faker Ahmed Hassan";
     public string Role = "Software Programmer";
