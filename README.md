@@ -1,78 +1,62 @@
 <div align="center">
-
-  <a href="https://t.me/faker_soft">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F78419&center=true&vCenter=true&width=600&lines=Hi,+I'm+Faker+Ahmed+Hassan;Software+Developer;C%2B%2B+%26+C%23+Specialist;UI%2FUX+Designer" alt="Faker Ahmed" />
   </a>
-
-  <br>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="50%"/> 
-  <br>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SP-XD&style=for-the-badge&color=orange&label=PROFILE+VIEWS" />
-    <img src="https://img.shields.io/badge/Main_Focus-Software_Engineering-blue?style=for-the-badge" />
-  </p>
-
-  <a href="https://t.me/faker_soft">
-    <img src="https://img.shields.io/badge/Telegram-Contact%20Me-blue?style=for-the-badge&logo=telegram" />
-  </a>
-
 </div>
 
+<p align="center">
+  <a href="https://t.me/fakersoft">Telegram</a> - 
+  <a href="https://github.com/SP-XD">GitHub Portfolio</a> - 
+  <a href="mailto:faker@example.com">Email Me</a> 
+</p>
+
+-----------------------------------------------------------
+
+👨🏻‍💻 **About Me**
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" align="right" width="300px">
+
+✨ **Software Programmer** passionate about building robust logic and clean interfaces. <br>
+⚡ Specialized in **System Applications** and **Visual Studio** environments.<br>
+📫 How to reach me: [Direct on Telegram](https://t.me/fakersoft)<br>
+👯 I'm open to collaborating on **Open Source C# & C++ Projects**.<br>
+💬 Ask me about **UI/UX Design** and **Linux Customization**.<br>
+
+<b>🛠 Tech Stack / Skills</b><br><br>
+
+**Languages:** <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">
+
+**Design & Tools:** <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat">
+
 <hr>
 
-### 🖋️ Professional Bio
-- 💻 **Core Programming:** Expert in building logic with **C++** and **C# (.NET)**.
-- 🌐 **Web Development:** Proficient in **HTML5, CSS3, and JavaScript**.
-- 🎨 **UI/UX Design:** Crafting user-centric interfaces using **Figma** and **Adobe Suite**.
-- 🐧 **Linux Lover:** Passionate about shell scripting and system customization.
+<details>
+  <summary><b>⚙️ My GitHub Analytics</b></summary>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&theme=nord&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP-XD&layout=compact&theme=nord&hide_border=true" />
+  </div>
+</details>
 
-<hr>
-
-### 🛠️ Programming Stack & Tools
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%"><strong>🚀 Software & Backend</strong></td>
-    <td align="center" width="33%"><strong>🌐 Web Technologies</strong></td>
-    <td align="center" width="33%"><strong>☁️ Tools & Platforms</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <br>
-      <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br>
+<details>
+  <summary><b>📚 Code Snippet (C# Core)</b></summary><br>
 
 ```csharp
-// Professional Identity in C#
-public class Developer {
-    public string Name = "Faker Ahmed Hassan";
-    public string Role = "Software Programmer";
-    public string[] Stack = { "C++", "C#", "HTML/CSS", "JavaScript" };
+public class FakerIdentity {
+    public string Status = "Building the future...";
+    public string[] Focus = { "Software Logic", "User Experience" };
     
-    void ExecuteLife() {
+    void Dream() {
         while(true) {
-            SolveProblems();
-            DesignUIUX();
-            LearnNewTech(); 
+            Code();
+            Design();
+            Innovate();
         }
     }
 }
