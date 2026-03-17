@@ -17,12 +17,6 @@
     <img src="https://img.shields.io/badge/Telegram-Contact%20Me-blue?style=for-the-badge&logo=telegram" />
   </a>
 
-  <details>
-    <summary><b>🎵 Currently Vibing to...</b></summary>
-    <br>
-    [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
-  </details>
-
 </div>
 
 <hr>
@@ -76,10 +70,10 @@ public class Developer {
     public string[] Stack = { "C++", "C#", "HTML/CSS", "JavaScript" };
     
     void ExecuteLife() {
-        while(alive) {
+        while(true) {
             SolveProblems();
             DesignUIUX();
-            LearnNewTech(); // Current: Frappe Framework
+            LearnNewTech(); 
         }
     }
 }
