@@ -1,61 +1,62 @@
 <div align="center">
+  
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%"/> 
+  <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%"/> 
-<br>
+  <h1>💻 Faker Ahmed Hassan 💻</h1>
+  <p align="center">
+    <strong>Software Developer | C++ & C# Specialist | Full-Stack Web</strong><br>
+    <i>Architecting logic and building high-performance systems.</i>
+  </p>
 
-# 🚀 Hello, I'm Ahmed Hassan
-### **Software Engineer | UI/UX Designer | Creative Developer**
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=SP-XD&style=for-the-badge&color=orange&label=Profile+Views" alt="Views" />
+    <img src="https://img.shields.io/badge/Main_Focus-Backend_Development-blue?style=for-the-badge" alt="Focus" />
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SP-XD&style=for-the-badge&color=orange&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/Status-Coding-brightgreen?style=for-the-badge&logo=visual-studio-code" />
-</p>
-
-<details>
-<summary><b>🎵 Vibing to...</b></summary>
-<br>
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
-</details>
+  <a href="https://t.me/spxd007">
+    <img src="https://img.shields.io/badge/Telegram-Contact%20Me-blue?style=for-the-badge&logo=telegram" />
+  </a>
 
 </div>
 
 <hr>
 
-### 👤 About Me
-- 🎓 **Passionate Programmer** specializing in high-performance languages like **C++** and **C#**.
-- 🎨 **UI/UX Specialist** who loves turning wireframes into interactive masterpieces using **Figma**.
-- 🌐 Proficient in **Full-Stack Basics** (HTML, CSS, JavaScript).
-- 🐧 **Linux Power User** & Open Source enthusiast.
-- 🛠️ Currently deep-diving into the **Frappe Framework**.
+### 🖋️ Professional Bio
+- 🎓 **Academic:** 2nd Year Computer Science Student at **University of Dhi Qar**.
+- 🖥️ **Core Programming:** Expert in building logic with **C++** and **C# (.NET)**.
+- 🌐 **Web Development:** Proficient in **HTML5, CSS3, and JavaScript** for creating functional web interfaces.
+- ⚙️ **Systems:** Deep interest in **Linux** environments and shell scripting.
+- 🎨 **Additional Skills:** Experienced in **UI/UX design (Figma)** to support the development process.
 
 <hr>
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Programming Stack & Mastered Tools
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="33%"><b>Programming & Apps</b></td>
-    <td align="center" width="33%"><b>Design & UX</b></td>
-    <td align="center" width="33%"><b>Web & Tools</b></td>
+    <td align="center" width="33%"><strong>🚀 Software & Backend</strong></td>
+    <td align="center" width="33%"><strong>🌐 Web Technologies</strong></td>
+    <td align="center" width="33%"><strong>☁️ Tools & Platforms</strong></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <br>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <br>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/UI/UX-Creative-purple?style=flat-square" /> <br>
-      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <br>
+    <td align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <br>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <br>
+      <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -63,9 +64,17 @@
 <br>
 
 ```csharp
-public class ProfessionalProfile {
-    public string Name => "Ahmed Hassan";
-    public string[] CoreSkills => new[] { "Logic (C++)", "Architecture (C#)", "Visuals (Figma)" };
-    public bool IsCreative => true;
-    public string Status => "Building the next big thing...";
+// Coding is my core identity
+public class Developer {
+    public string Name = "Faker Ahmed";
+    public string Role = "Software Programmer";
+    public string[] Stack = { "C++", "C#", "HTML/CSS", "JavaScript" };
+    
+    void ExecuteLife() {
+        while(true) {
+            SolveProblems();
+            OptimizeCode();
+            LearnNewTech(); // Currently: Frappe
+        }
+    }
 }
