@@ -1,22 +1,27 @@
 <div align="center">
-  
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%"/> 
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F78419&center=true&vCenter=true&width=600&lines=Hi,+I'm+Faker+Ahmed+Hassan;Software+Developer;C%2B%2B+%26+C%23+Specialist;UI%2FUX+Designer+at+Dhi+Qar+University" alt="Typing SVG" />
+  </a>
+
+  <br>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="50%"/> 
   <br>
 
-  <h1>💻 Faker Ahmed Hassan 💻</h1>
   <p align="center">
-    <strong>Software Developer | C++ & C# Specialist | Full-Stack Web</strong><br>
-    <i>Architecting logic and building high-performance systems.</i>
-  </p>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SP-XD&style=for-the-badge&color=orange&label=Profile+Views" alt="Views" />
-    <img src="https://img.shields.io/badge/Main_Focus-Backend_Development-blue?style=for-the-badge" alt="Focus" />
+    <img src="https://komarev.com/ghpvc/?username=SP-XD&style=for-the-badge&color=orange&label=PROFILE+VIEWS" />
+    <img src="https://img.shields.io/badge/Main_Focus-Software_Engineering-blue?style=for-the-badge" />
   </p>
 
   <a href="https://t.me/spxd007">
     <img src="https://img.shields.io/badge/Telegram-Contact%20Me-blue?style=for-the-badge&logo=telegram" />
   </a>
+
+  <details>
+    <summary><b>🎵 Currently Vibing to...</b></summary>
+    <br>
+    [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
+  </details>
 
 </div>
 
@@ -25,13 +30,13 @@
 ### 🖋️ Professional Bio
 - 🎓 **Academic:** 2nd Year Computer Science Student at **University of Dhi Qar**.
 - 🖥️ **Core Programming:** Expert in building logic with **C++** and **C# (.NET)**.
-- 🌐 **Web Development:** Proficient in **HTML5, CSS3, and JavaScript** for creating functional web interfaces.
-- ⚙️ **Systems:** Deep interest in **Linux** environments and shell scripting.
-- 🎨 **Additional Skills:** Experienced in **UI/UX design (Figma)** to support the development process.
+- 🌐 **Web Development:** Proficient in **HTML5, CSS3, and JavaScript**.
+- 🎨 **UI/UX Design:** Crafting user-centric interfaces using **Figma** and **Adobe Suite**.
+- 🐧 **Linux Lover:** Passionate about shell scripting and system customization.
 
 <hr>
 
-### 🛠️ Programming Stack & Mastered Tools
+### 🛠️ Programming Stack & Tools
 
 <table align="center">
   <tr>
@@ -55,8 +60,8 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <br>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -66,15 +71,15 @@
 ```csharp
 // Coding is my core identity
 public class Developer {
-    public string Name = "Faker Ahmed";
+    public string Name = "Faker Ahmed Hassan";
     public string Role = "Software Programmer";
     public string[] Stack = { "C++", "C#", "HTML/CSS", "JavaScript" };
     
     void ExecuteLife() {
-        while(true) {
+        while(alive) {
             SolveProblems();
-            OptimizeCode();
-            LearnNewTech(); // Currently: Frappe
+            DesignUIUX();
+            LearnNewTech(); // Current: Frappe Framework
         }
     }
 }
