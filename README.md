@@ -62,7 +62,7 @@
 <br>
 
 ```csharp
-// Coding is my core identity
+// The DNA of my work
 public class Developer {
     public string Name = "Faker Ahmed Hassan";
     public string Role = "Software Programmer";
