@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F78419&center=true&vCenter=true&width=700&lines=I'M+FAKER+AHMED+HASSAN;SOFTWARE+PROGRAMMER;C%2B%2B+%26+C%23+DEVELOPER;UI%2FUX+DESIGN+ENTHUSIAST" alt="Faker Ahmed" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=F78419&center=true&vCenter=true&width=800&lines=WELCOME+TO+MY+WORLD;I'M+FAKER+AL-HAJAR;FAKER+AL-HAJAR;WELCOME+VISITOR" alt="Faker Al-Hajar" />
 
   <p align="center">
     <a href="https://t.me/fakersoft">
