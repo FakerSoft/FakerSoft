@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=F78419&center=true&vCenter=true&width=800&lines=WELCOME+TO+MY+WORLD;I'M+FAKER+AL-HAJAR;FAKER+AL-HAJAR;WELCOME+VISITOR" alt="Faker Al-Hajar" />
 
   <p align="center">
-    <a href="https://t.me/@faker_soft">
+   <a href="https://t.me/faker_soft">
       <img src="https://img.shields.io/badge/TELEGRAM-CONTACT-blue?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=SP-XD&style=for-the-badge&color=orange&label=VISITORS" />
