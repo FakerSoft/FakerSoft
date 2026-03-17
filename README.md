@@ -6,13 +6,13 @@
     <a href="https://t.me/faker_soft">
       <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
-    <a href="mailto:faker@example.com">
+    <a href="mailto: fakrahmdalhjr@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.facebook.com/YourUsername">
+    <a href="https://www.facebook.com/share/p/18CtXfkEL4/">
       <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/YourUsername">
+    <a href="https://www.instagram.com/fakeralhajar?igsh=MXF3Y3A0OHgzMjJwNg==">
       <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=SP-XD&style=for-the-badge&color=orange&label=VISITORS" />
