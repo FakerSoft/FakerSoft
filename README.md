@@ -1,8 +1,6 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F78419&center=true&vCenter=true&width=600&lines=Hi,+I'm+Faker+Ahmed+Hassan;Software+Developer;C%2B%2B+%26+C%23+Specialist;UI%2FUX+Designer" alt="Typing SVG" />
-  </a>
+  
 
   <br>
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="50%"/> 
