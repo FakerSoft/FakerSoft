@@ -38,7 +38,6 @@
       • ⚡ Constant learner in the world of <b>AI</b> and <b>DevOps</b>.
     </td>
     <td width="45%" align="center">
-      <img src="https://github.com/FakerSoft/FakerSoft/blob/main/images/dev-working_rounded.gif?raw=true" width="250px" />
     </td>
   </tr>
 </table>
