@@ -19,7 +19,7 @@
     <a href="https://www.instagram.com/fakeralhajar?igsh=MXF3Y3A0OHgzMjJwNg==">
       <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=FAKERSOFT&style=for-the-badge&color=orange&label=VISITORS" />
+    <img src="https://komarev.com/ghpvc/?username=SP-XD&style=for-the-badge&color=orange&label=VISITORS" />
   </p>
 </div>
 
@@ -38,6 +38,7 @@
       • ⚡ Constant learner in the world of <b>AI</b> and <b>DevOps</b>.
     </td>
     <td width="45%" align="center">
+      <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="250px" />
     </td>
   </tr>
 </table>
@@ -56,15 +57,15 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FAKERSOFT&show_icons=true&theme=nord&hide_border=true&title_color=F78419&icon_color=F78419&text_color=ffffff&bg_color=0D1117" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&theme=nord&hide_border=true&title_color=F78419&icon_color=F78419&text_color=ffffff&bg_color=0D1117" />
       </td>
       <td>
-<img height="180em" src="https://streak-stats.demolab.com/?user=FAKERSOFT&theme=nord&hide_border=true&stroke=F78419&fire=F78419&ring=F78419" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=SP-XD&theme=nord&hide_border=true&stroke=F78419&fire=F78419&ring=F78419" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAKERSOFT&layout=compact&theme=nord&hide_border=true&title_color=F78419&text_color=ffffff&bg_color=0D1117" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP-XD&layout=compact&theme=nord&hide_border=true&title_color=F78419&text_color=ffffff&bg_color=0D1117" />
       </td>
     </tr>
   </table>
