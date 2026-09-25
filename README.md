@@ -47,42 +47,24 @@
 
 ### 🛠️ Professional Toolbox
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,html,css,js,figma,linux,git,vscode,ai&perline=6" />
-</div>
-
----
-
-### 📊 Engineering Stats
-<div align="center">
-
   <table border="0">
     <tr>
       <td>
-        <img
-          height="180em"
-          src="https://github-readme-stats.vercel.app/api?username=FakerSoft&show_icons=true&theme=nord&hide_border=true&title_color=F78419&icon_color=F78419&text_color=ffffff&bg_color=0D1117"
-        />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FAKERSOFT&show_icons=true&theme=nord&hide_border=true&title_color=F78419&icon_color=F78419&text_color=ffffff&bg_color=0D1117" />
       </td>
-
       <td>
-        <img
-          height="180em"
-          src="https://streak-stats.demolab.com/?user=FakerSoft&theme=nord&hide_border=true&stroke=F78419&fire=F78419&ring=F78419"
-        />
+<img height="180em" src="https://streak-stats.demolab.com/?user=FAKERSOFT&theme=nord&hide_border=true&stroke=F78419&fire=F78419&ring=F78419" />
       </td>
     </tr>
-
     <tr>
       <td colspan="2" align="center">
-        <img
-          height="180em"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakerSoft&layout=compact&theme=nord&hide_border=true&title_color=F78419&text_color=ffffff&bg_color=0D1117"
-        />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAKERSOFT&layout=compact&theme=nord&hide_border=true&title_color=F78419&text_color=ffffff&bg_color=0D1117" />
       </td>
     </tr>
   </table>
-
 </div>
+
+
 
 ---
 
